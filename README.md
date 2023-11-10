@@ -1,6 +1,6 @@
 Hi there 👋
 This is Anisa 😊
-I am a first year undergrad student and my major is Software Engineering !!
+I am a first year undergrad student at UTM 📚
 <!--
 **DesDemonaOthelLo/DesDemonaOthelLo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
