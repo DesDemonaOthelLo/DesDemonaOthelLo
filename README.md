@@ -1,5 +1,5 @@
 <h1 align="center">Hey👋, I'm Anisa !!</h1>
-<h3 align="left">📚 Currently studying Software Engineering at UTM </h3>
+<h3 align="left">📚 Currently Studying Software Engineering at UTM </h3>
 
 
 <h3 align="left">🚀 Connect with me:</h3>
