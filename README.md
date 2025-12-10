@@ -11,7 +11,7 @@
 </p>
 
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+<h3 align="left">📚 Languages</h3>
 <p align="left">
 
 <!-- Programming Languages -->
@@ -29,14 +29,20 @@
 
 <!-- Databases -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" />
+</p>
 
+<h3 align="left">🛠️ Tools and Frameworks:</h3>
+<p align="left">
+  
 <!-- Frameworks -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40" height="40" />
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40" />
 
 <!-- Tools -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" width="40" height="40" />
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" />
+<img src="https://www.tableau.com/sites/default/files/pages/tableau_logo.png" width="40" height="40" />
 
 </p>
 
