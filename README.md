@@ -39,7 +39,6 @@
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40" />
 
 <!-- Tools -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" width="40" height="40" />
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" />
 <img src="https://www.tableau.com/sites/default/files/pages/tableau_logo.png" width="40" height="40" />
