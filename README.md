@@ -9,25 +9,6 @@ I’m a Year 3 undergraduate student at Universiti Teknologi Malaysia (UTM), pur
 
 ---
 
-<h3 align="left">📂 Academic Projects</h3>
-
-
-- **[ECA-Adda](https://github.com/fatemaj6/Pixel-Application-Development-Project--ECA-Adda-Web-Application)** *(Ongoing)*: Group project for Application Development course, developing a full-stack web application using Laravel and Node.js, designed as an ECA (Extra-Curricular Activities) search platform. Implemented two-step authentication with OTP verification, Stripe payment gateway integration, and an AI-powered chatbot using Gemini, along with database integration and role-based access control.
-
-- **[SoulSpace](https://github.com/chngsenghong/SoulSpace)** *(Ongoing)*: Group project for the Internet Programming course. A web-based mental health literacy hub for university students built using Spring MVC and Thymeleaf for views. Features include user authentication, an AI-powered chatbot, appointment booking and cancellation, real-time chat, blog modules, backend logic, and database integration.
-
-- **[NetComProject](https://github.com/DesDemonaOthelLo/network-server-room-design)**: Academic project for the Network Communication course, focusing on the design of a complete networking infrastructure and server room for an academic building in our faculty. The project involved IP addressing and subnetting, VLAN design, device selection, cabling layout, rack planning, and network scalability considerations, with emphasis on reliability, security, and practical deployment aspects.
-
-- **[COAproject](https://github.com/DesDemonaOthelLo/coa-cpu-performance-analysis)**: Project developed for the Computer Organization & Architecture course, analysing CPU, memory, and disk performance using benchmarking and system monitoring tools. The project evaluated hardware behaviour under different workloads to understand performance characteristics, efficiency, and system-level resource utilization.
-
-- **[OSproject_SemaphoreSynchronization(Java)](https://github.com/DesDemonaOthelLo/os-semaphore-synchronization)**: Operating Systems course project implementing a Java-based traffic intersection simulation to demonstrate process synchronization concepts. Binary semaphores were used to manage concurrent processes, ensuring mutual exclusion, proper coordination, and prevention of race conditions during simultaneous execution.
-
-- **[UTM Facility Reservation System](https://github.com/DesDemonaOthelLo/database-utmf-facility-reservation-system)**: Database systems project focused on designing and implementing a facility reservation system. The project included ERD and EERD modelling, schema normalization, and SQL query implementation to support reservation management, data integrity, and efficient information retrieval.
-
-- **[DL Project](https://github.com/DesDemonaOthelLo/digital-logic-project)**: Project completed for the Digital Logic course, involving the design and analysis of digital logic circuits to implement control logic functionality. The system was built using fundamental logic gates and combinational and sequential components, focusing on correctness, efficiency, and logical flow.
-
----
-
 <h3 align="left">📚 Languages</h3>
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -58,6 +39,24 @@ I’m a Year 3 undergraduate student at Universiti Teknologi Malaysia (UTM), pur
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
+---
+
+<h3 align="left">📂 Academic Projects</h3>
+
+
+- **[ECA-Adda](https://github.com/fatemaj6/Pixel-Application-Development-Project--ECA-Adda-Web-Application)** *(Ongoing)*: Group project for Application Development course, developing a full-stack web application using Laravel and Node.js, designed as an ECA (Extra-Curricular Activities) search platform. Implemented two-step authentication with OTP verification, Stripe payment gateway integration, and an AI-powered chatbot using Gemini, along with database integration and role-based access control.
+
+- **[SoulSpace](https://github.com/chngsenghong/SoulSpace)** *(Ongoing)*: Group project for the Internet Programming course. A web-based mental health literacy hub for university students built using Spring MVC and Thymeleaf for views. Features include user authentication, an AI-powered chatbot, appointment booking and cancellation, real-time chat, blog modules, backend logic, and database integration.
+
+- **[NetComProject](https://github.com/DesDemonaOthelLo/network-server-room-design)**: Academic project for the Network Communication course, focusing on the design of a complete networking infrastructure and server room for an academic building in our faculty. The project involved IP addressing and subnetting, VLAN design, device selection, cabling layout, rack planning, and network scalability considerations, with emphasis on reliability, security, and practical deployment aspects.
+
+- **[COAproject](https://github.com/DesDemonaOthelLo/coa-cpu-performance-analysis)**: Project developed for the Computer Organization & Architecture course, analysing CPU, memory, and disk performance using benchmarking and system monitoring tools. The project evaluated hardware behaviour under different workloads to understand performance characteristics, efficiency, and system-level resource utilization.
+
+- **[OSproject_SemaphoreSynchronization(Java)](https://github.com/DesDemonaOthelLo/os-semaphore-synchronization)**: Operating Systems course project implementing a Java-based traffic intersection simulation to demonstrate process synchronization concepts. Binary semaphores were used to manage concurrent processes, ensuring mutual exclusion, proper coordination, and prevention of race conditions during simultaneous execution.
+
+- **[UTM Facility Reservation System](https://github.com/DesDemonaOthelLo/database-utmf-facility-reservation-system)**: Database systems project focused on designing and implementing a facility reservation system. The project included ERD and EERD modelling, schema normalization, and SQL query implementation to support reservation management, data integrity, and efficient information retrieval.
+
+- **[DL Project](https://github.com/DesDemonaOthelLo/digital-logic-lift-controller)**: Project completed for the Digital Logic course, involving the design and analysis of digital logic circuits to implement control logic functionality. The system was built using fundamental logic gates and combinational and sequential components, focusing on correctness, efficiency, and logical flow.
 
 ---
 
