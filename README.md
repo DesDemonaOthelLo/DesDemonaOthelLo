@@ -44,7 +44,7 @@ I’m a Year 3 undergraduate student at Universiti Teknologi Malaysia (UTM), pur
 <h3 align="left">📂 Academic Projects</h3>
 
 
-- **[ECA-Adda](https://github.com/fatemaj6/Pixel-Application-Development-Project--ECA-Adda-Web-Application)** *(Ongoing)*: Group project for Application Development course, developing a full-stack web application using Laravel and Node.js, designed as an ECA (Extra-Curricular Activities) search platform. Implemented two-step authentication with OTP verification, Stripe payment gateway integration, and an AI-powered chatbot using Gemini, along with database integration and role-based access control.
+- **[ECA-Adda](https://github.com/fatemaj6/Pixel-Application-Development-Project--ECA-Adda-Web-Application)**: Group project for Application Development course, developing a full-stack web application using Laravel and Node.js, designed as an ECA (Extra-Curricular Activities) search platform. Implemented two-step authentication with OTP verification, Stripe payment gateway integration, and an AI-powered chatbot using Gemini, along with database integration and role-based access control.
 
 - **[SoulSpace](https://github.com/chngsenghong/SoulSpace)** *(Ongoing)*: Group project for the Internet Programming course. A web-based mental health literacy hub for university students built using Spring MVC and Thymeleaf for views. Features include user authentication, an AI-powered chatbot, appointment booking and cancellation, real-time chat, blog modules, backend logic, and database integration.
 
