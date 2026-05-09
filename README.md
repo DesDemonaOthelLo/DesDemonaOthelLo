@@ -4,7 +4,7 @@
 
 <h3 align="left">👩‍💻 About Me</h3>
 <p align="left">
-I’m a Year 3 undergraduate student at Universiti Teknologi Malaysia (UTM), pursuing a Bachelor’s degree in Computer Science with a focus on Software Engineering. My love for solving math problems and writing code is what led me to choose Computer Science as my major. I’m an introvert by nature and enjoy spending time quietly, whether that’s walking in nature, coding, or thinking through problems. I absolutely love nature, and one of my favourite things about UTM is its beautiful campus surrounded by hills, jungles, and lakes.
+I’m a Year 3 undergraduate student at Universiti Teknologi Malaysia (UTM), pursuing a Bachelor’s degree in Computer Science with a focus on Software Engineering. 
 </p>
 
 ---
