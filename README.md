@@ -29,6 +29,7 @@ I’m a Year 3 undergraduate student at Universiti Teknologi Malaysia (UTM), pur
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-E74430?style=for-the-badge&logo=laravel&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -51,6 +52,7 @@ I’m a Year 3 undergraduate student at Universiti Teknologi Malaysia (UTM), pur
 
 ---
 
+![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -69,6 +71,8 @@ I’m a Year 3 undergraduate student at Universiti Teknologi Malaysia (UTM), pur
 - **[ApartmentManagementSystem](https://github.com/azizah-utm/group-project-opensource)**: Full-stack group project developed for the Web Technology course using Vue 3, TypeScript, PHP Slim, JWT Authentication, MySQL and RESTful APIs. Contributed to the Maintenance Request and Resource Hub modules, implementing CRUD operations, document searching and filtering, role-based administrative functions, frontend-backend integration, and database-driven content management.
 
 - **[ECA-Adda](https://github.com/fatemaj6/Pixel-Application-Development-Project--ECA-Adda-Web-Application)**: Group project for Application Development course, developing a full-stack web application using Laravel and Node.js, designed as an ECA (Extra-Curricular Activities) search platform. Implemented two-step authentication with OTP verification, Stripe payment gateway integration, and an AI-powered chatbot using Gemini, along with database integration and role-based access control.
+
+- **[DHL-DAC-3.0](https://github.com/azizah-utm/assignment-web-application-with-rpa-dhl-dac-3-0-DesDemonaOthelLo)**: Developed enterprise-focused solutions for the DHL Digital Automation Challenge using Vue 3, TypeScript, Node.js, Express.js, REST APIs, and UiPath RPA. Worked on knowledge-base automation and the IncidentHub platform, including incident intake, dashboards, status tracking, reports, logs, and automated workflow processing.
 
 - **[SoulSpace](https://github.com/chngsenghong/SoulSpace)**: Group project for the Internet Programming course. A web-based mental health literacy hub for university students built using Spring MVC and Thymeleaf for views. Features include user authentication, an AI-powered chatbot, appointment booking and cancellation, real-time chat, blog modules, backend logic, and database integration.
 
